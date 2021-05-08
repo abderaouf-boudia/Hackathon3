@@ -200,6 +200,8 @@ list-style: none;
   background-color: #ff0844;
   padding: 14px 32px;
   border: none;
+  width: 30%;
+  left:52%;
   border-radius: 4px;
   color: #fff;
   margin-top: 2rem;
