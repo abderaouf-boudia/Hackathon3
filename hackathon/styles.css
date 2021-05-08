@@ -178,13 +178,13 @@ list-style: none;
 .enigme_content  h1  {
   font-size: 4rem;
   background-color: #ff0844;
-  background-image: linear-gradient(to top , #ff0844 0%;, #ff8177 100 ) ;
+  background-image: linear-gradient(to top , #ff0844 0%, #ff8177 100 ) ;
   background-size: 10%;
 }
 .enigme_content  h2  {
   font-size: 4rem;
   background-color: #ff0844;
-  background-image: linear-gradient(to top , #ff0844 0%;, #ff8177 100 ) ;
+  background-image: linear-gradient(to top , #ff0844 0%, #ff8177 100 ) ;
   background-size: 100%;
 }
 .enigme_content  p  {
@@ -273,13 +273,13 @@ list-style: none;
 .reglement_content  h1  {
     font-size: 4rem;
     background-color: #ff0844;
-    background-image: linear-gradient(to top , #ff0844 0%;, #ff8177 100 ) ;
+    background-image: linear-gradient(to top , #ff0844 0%, #ff8177 100 ) ;
     background-size: 100%; 
 }
 .reglement_content  h2  {
     font-size: 4rem;
     background-color: #ff0844;
-    background-image: linear-gradient(to top , #ff0844 0%;, #ff8177 100 ) ;
+    background-image: linear-gradient(to top , #ff0844 0%, #ff8177 100 ) ;
     background-size: 100%;
 }
 .reglement_content  p  {
