@@ -444,9 +444,10 @@ list-style: none;
     background-color: #141414;
     flex-direction: row;
     justify-content: space-around;
-    max-width: 1300px;
-    margin: 0 auto;
+    max-width: 100%;
+    margin: auto;
     padding: 100px 0;
+    height: 500px;
 
 }
 #contact .contact-items {
@@ -456,6 +457,9 @@ list-style: none;
     flex-direction: row;
 }
 
+h6{
+  color: white;
+}
 #contact .contact-item {
     background-color: #ff0844;
 width:80%;
@@ -507,7 +511,6 @@ transition: .3s ease box-shadow;
 {
     flex-direction: column;
     min-height: 200px;
-    margin: 0 auto;
     padding-top: 50px;
 	padding-bottom: 10px;
   background-image: linear-gradient(#000000, #2e2e30);;
@@ -516,11 +519,10 @@ transition: .3s ease box-shadow;
 #footer .footer-item 
 {
     display: flex;
-    
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+    left: 200px;
 }
 #footer .icons {
     display: flex;
