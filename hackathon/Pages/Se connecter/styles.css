@@ -165,6 +165,7 @@ label{
   }
   
   input[type=submit]{
+    color: white;
     position: inherit;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.666);
@@ -205,6 +206,7 @@ label{
   input[type=submit]:hover, .sinscrire:hover{
     background-color: white;
     cursor:pointer;
+    color: rgba(0, 0, 0, 1);
   }
   
   a{

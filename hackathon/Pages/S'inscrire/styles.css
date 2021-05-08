@@ -160,6 +160,7 @@ label{
     width: 180px;
     font-size: 20px;
     
+    
   }
   
   input[type=submit]{
@@ -172,6 +173,7 @@ label{
     width: 180px;
     font-size: 16px;
     text-align: center;
+    color: white;
     
   }
   
@@ -203,6 +205,7 @@ label{
   input[type=submit]:hover, .sinscrire:hover{
     background-color: white;
     cursor:pointer;
+    color: rgba(0, 0, 0, 1);
   }
   
   a{

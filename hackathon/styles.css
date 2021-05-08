@@ -578,3 +578,8 @@ transition: .3s ease box-shadow;
 /* end footer section */ 
 
 
+p{
+left:50%;
+transform: translate(-50%);
+font-size: 40px;
+}
